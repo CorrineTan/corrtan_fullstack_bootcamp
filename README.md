@@ -5,6 +5,7 @@ Learning Notes
 ## Section 1 - Front-End Web Development
 - How access an Website works: <br>
 Client(www.google.com) => ISP (internet service provider) => DNS Server(Domain Name System, it's like the phone book, look at the IP address of that website you are trying to access)
+
 | how typing URL works behind the scene | 
 |---------------------------------------------|
 |![how typing URL works behind the scene](https://github.com/CorrineTan/corrtan_fullstack_bootcamp/blob/main/img/URL_behind_the_scene.jpg) |
