@@ -105,5 +105,3 @@ openning vs ending tags (forward slash). h1 to h6.<br>
 ## Section 41 - Create your own Crypto Token
 
 ## Section 42 - Minting NFTs and Building an NFT Marketplace like OpenSea
-
-## Section 43 - Optional module: Ask Angela Anything
