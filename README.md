@@ -6,6 +6,10 @@ Learning Notes
 - How access an Website works: <br>
 Client(www.google.com) => ISP (internet service provider) => DNS Server(Domain Name System, it's like the phone book, look at the IP address of that website you are trying to access)
 
+| how typing URL works behind the scene | 
+|---------------------------------------------|
+|![how typing URL works behind the scene](https://github.com/CorrineTan/corrtan_fullstack_bootcamp/blob/main/img/URL_behind_the_scene.jpg) |
+
 - How Internet works:<br>
 HTML - content/structure of the website<br>
 CSS - styling of the website<br>
@@ -120,5 +124,3 @@ If you wnt to start with 5: <ol start="5">
 ## Section 41 - Create your own Crypto Token
 
 ## Section 42 - Minting NFTs and Building an NFT Marketplace like OpenSea
-
-## Section 43 - Optional module: Ask Angela Anything
