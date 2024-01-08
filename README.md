@@ -19,10 +19,29 @@ Markup Language - HTML Tags
 - Heading element<br>
 openning vs ending tags (forward slash). h1 to h6.<br>
 
+- Paragraph element: `<p>...</p>`
 
-
+- Void element<br>
+  - Horizontal Rule Element: `<hr /> `
+  - Break Element: `<br />`
 
 ## Section 3 - Intermediate HTML
+
+- Unordered/Ordered list<br>
+<ur>/<ol>
+  <li>egg</li>
+  <li>apple</li>
+</ur>/</ol>
+
+If you wnt to start with 5: <ol start="5">
+
+- Nesting and Indentation to make several level of list<br>
+
+- Anchor Element<br>
+<a href="https://stellarium-web.org/">Stellarium</a>
+
+- Image Element <br>
+<img src="url" />   It is like break and line break, is also a self-closed tag.
 
 ## Seciton 4 - Multi-Page Websites
 
